@@ -9,13 +9,21 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< Updated upstream
         android:text="@string/title_app"
         android:id="@+id/title"
+=======
+        android:text="Hello World!"
+        android:id="@+id/texte"
+>>>>>>> Stashed changes
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+<<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes
 </androidx.constraintlayout.widget.ConstraintLayout>

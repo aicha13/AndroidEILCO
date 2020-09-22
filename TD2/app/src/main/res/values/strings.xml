@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">TD2</string>
+<<<<<<< Updated upstream
     <string name="title_app">Salut tout le monde</string>
 
 
+=======
+    <string name = "String_name">Saluttoutlemonde</string>
+>>>>>>> Stashed changes
 </resources>
